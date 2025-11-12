@@ -8,10 +8,10 @@ This project provides hands-on experience with Amazon GuardDuty findings using a
 
 ## Preparation
 * Splunk Web → Settings → Add Data → Upload
-* File: guardduty_findings.json
-* sourcetype: _json
-* Index: guardduty_lab
-* Validate: index=guardduty_lab | head 5
+* File: ```guardduty_findings.json```
+* sourcetype: ```_json```
+* Index: ```guardduty_lab```
+* Validate: ```index=guardduty_lab | head 5```
 
 ## Background
 ## What is GuardDuty?
