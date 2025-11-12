@@ -95,3 +95,5 @@ Here
 
 ## Conclusion
 By the end of this lab, you will have analyzed GuardDuty findings across different categories, understood how to triage threats, and simulated how SOC teams handle GuardDuty alerts in real environments. 
+
+![GuardDuty Dashboard](AWS-GuardDuty-Log.png)
